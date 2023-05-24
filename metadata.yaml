@@ -1,11 +1,16 @@
 _repo: The-highland-glen-b-Plenty-and-famine_70779
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70779-h/images/cover.jpg
 creator:
   author:
     agent_name: Wrench, Matilda
     gutenberg_agent_id: '55921'
     url: http://www.gutenberg.org/2009/agents/55921
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70779#The-highland-glen-b-Plenty-and-famine
 gutenberg_issued: '2023-05-16'
 identifiers:
   gutenberg: '70779'
